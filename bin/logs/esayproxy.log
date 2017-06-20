@@ -1,0 +1,20 @@
+2017/06/19 19:00:30 log.go:21: success create log file: logs/esayproxy.log
+2017/06/19 19:00:30 config.go:34: success load config file: /Users/zhaojianwei/zhaojianwei/Go/src/open.com/EasyProxy/bin/conf/default.json
+2017/06/19 19:00:30 server.go:43: easyproxy server start ok
+2017/06/19 19:00:33 server.go:74: easyproxy server stop ok
+2017/06/19 19:00:33 server.go:52: client connect server error: accept tcp 127.0.0.1:9527: use of closed network connection
+2017/06/20 14:35:06 log.go:21: success create log file: logs/esayproxy.log
+2017/06/20 14:35:06 config.go:34: success load config file: /Users/zhaojianwei/zhaojianwei/Go/src/open.com/EasyProxy/bin/conf/default.json
+2017/06/20 14:35:06 server.go:43: easyproxy server start ok
+2017/06/20 14:36:52 server.go:74: easyproxy server stop ok
+2017/06/20 14:36:52 server.go:52: client connect server error: accept tcp 127.0.0.1:12001: use of closed network connection
+2017/06/20 14:37:15 log.go:21: success create log file: logs/esayproxy.log
+2017/06/20 14:37:15 config.go:34: success load config file: /Users/zhaojianwei/zhaojianwei/Go/src/open.com/EasyProxy/bin/conf/default.json
+2017/06/20 14:37:15 server.go:43: easyproxy server start ok
+2017/06/20 14:38:53 server.go:74: easyproxy server stop ok
+2017/06/20 14:38:53 server.go:52: client connect server error: accept tcp 127.0.0.1:12001: use of closed network connection
+2017/06/20 14:38:55 log.go:21: success create log file: logs/esayproxy.log
+2017/06/20 14:38:55 config.go:34: success load config file: /Users/zhaojianwei/zhaojianwei/Go/src/open.com/EasyProxy/bin/conf/default.json
+2017/06/20 14:38:55 server.go:43: easyproxy server start ok
+2017/06/20 14:42:06 server.go:74: easyproxy server stop ok
+2017/06/20 14:42:06 server.go:52: client connect server error: accept tcp 127.0.0.1:12001: use of closed network connection

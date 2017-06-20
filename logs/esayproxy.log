@@ -1,0 +1,5 @@
+2017/06/19 18:58:37 log.go:21: success create log file: logs/esayproxy.log
+2017/06/19 18:58:37 config.go:34: success load config file: /Users/zhaojianwei/zhaojianwei/Go/src/open.com/EasyProxy/conf/default.json
+2017/06/19 18:58:37 server.go:43: easyproxy server start ok
+2017/06/19 18:58:42 server.go:74: easyproxy server stop ok
+2017/06/19 18:58:42 server.go:52: client connect server error: accept tcp 127.0.0.1:9527: use of closed network connection

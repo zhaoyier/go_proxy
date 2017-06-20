@@ -1,0 +1,19 @@
+{
+  "service": "mysql service",
+  "host": "localhost",
+  "port": 12001,
+  "webport": 7259,
+  "strategy": "poll",
+  "heartbeat": 60,
+  "maxprocessor": 1,
+  "backends": [
+    {
+      "host": "localhost",
+      "port": 12101
+    },
+    {
+      "host": "localhost",
+      "port": 12102
+    }
+  ]
+}
